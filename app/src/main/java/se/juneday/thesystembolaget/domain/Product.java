@@ -3,7 +3,7 @@ package se.juneday.thesystembolaget.domain;
 import java.util.Comparator;
 
 public class Product {
-
+    private String test;
     private String name;
     private double price; // SEK
     private double alcohol; // % alcohol by volume
